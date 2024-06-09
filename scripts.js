@@ -113,12 +113,3 @@
 // }else if (isPrime){
 //     console.log(`${number} is prime Number`);
 // }
-
-
-
-
-
-
-
-
-
